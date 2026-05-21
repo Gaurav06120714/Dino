@@ -13,6 +13,8 @@ A faithful recreation of the iconic Chrome browser offline dinosaur game, built 
 - **White theme** — matches the real Chrome Dino aesthetic
 - **High score tracking** — best score persists across rounds
 - **Keyboard controls** — Arrow Up or SPACE to jump
+- **Double jump** — press jump again mid-air for extra height
+- **Night mode** — theme switches to dark after 1000 points
 
 ---
 
@@ -21,6 +23,8 @@ A faithful recreation of the iconic Chrome browser offline dinosaur game, built 
 | Key | Action |
 |-----|--------|
 | `↑` / `SPACE` | Jump |
+| `↑` / `SPACE` (mid-air) | Double Jump |
+| `↓` | Duck |
 | `↑` / `SPACE` | Restart after Game Over |
 
 ---

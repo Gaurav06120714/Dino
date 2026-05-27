@@ -1,6 +1,12 @@
-# 🦕 Chrome Dino Game — Java Edition
+# 🦕 Chrome Dinosaur — Double Jump Edition
 
-A faithful recreation of the iconic Chrome browser offline dinosaur game, built with Java Swing.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=for-the-badge)
+![Score](https://img.shields.io/badge/High%20Score-Try%20to%20beat%20it-ff69b4?style=for-the-badge)
+
+A feature-rich Java clone of the Chrome offline dinosaur game — with **double jump**, **smooth night mode**, **big cacti**, and **persistent high score**.
 
 ---
 

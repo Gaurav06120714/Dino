@@ -1,0 +1,15 @@
+# Maven
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.DS_Store
+
+# OS
+Thumbs.db
+
+# Game save data (local only)
+.dino-game/

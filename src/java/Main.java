@@ -6,7 +6,9 @@ import javax.swing.*;
  */
 public class Main {
 
-    private static final int    BOARD_WIDTH  = 900;   // wider board for better gameplay
+    private static final int    BOARD_WIDTH   = 900;
+    private static final int    TARGET_FPS    = 60;   // configurable frame rate
+    private static final double SPEED_MULTIPLIER = 1.0; // 1.0 = normal, 1.5 = fast mode   // wider board for better gameplay
     private static final int    BOARD_HEIGHT = 300;
     private static final String TITLE        = "Chrome Dinosaur — Double Jump Edition";
 
